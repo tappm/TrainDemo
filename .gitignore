@@ -1,0 +1,4 @@
+# ignore the log folder
+\logs
+# ignore *.log files everywhere
+*.log
